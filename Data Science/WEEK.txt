@@ -1,0 +1,27 @@
+Tesis project
+Francés
+Data Science Curso
+Project Managemente Curso
+Tarea clases Andy
+
+Desarrollar para Inti Robotics
+Detector de personas/intrusos sensor PIR
+Riego Automático
+Videojuego con Arduino y un potenciómetro
+Construcción de un paracaídas
+Diseño de un cohete de agua
+Prótesis con cartón y ligas
+
+
+https://www.youtube.com/watch?v=gimfTyCNfGw&ab_channel=AprendeIAconLigdiGonzalez
+https://classroom.google.com/u/2/w/MzQyMTM3ODE2ODY0/t/all
+https://drive.google.com/file/d/1Eg00-vOZeJDSZgmcCDbu6TUDOXhskdGd/view
+https://colab.research.google.com/drive/1NlclfLJM8Uc_4sQ6W1CTyLBLFXqmGMev?hl=es#scrollTo=qUC1FYSDFjZP
+https://colab.research.google.com/drive/1ZQH0T9xsN8a_1Xs3-UYk3clwV1qMaZxr?hl=es
+https://dotnet.microsoft.com/download/dotnet-framework/net472
+https://magora-systems.com/app-development-framework/
+https://www.google.com/search?q=vuejs&rlz=1C1CHBF_enPE809PE809&oq=vuejs+&aqs=chrome..69i57j0l9.5268j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+
